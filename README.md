@@ -1,5 +1,5 @@
-### Instalacion-Actualización en lubuntu 22.04.1
+### Instalacion-Actualización en lubuntu 22.04.1 y derivadas
 
 Descargue:
 
-	go get -u github.com/astaxie/bat
+	bash <(curl -s https://raw.githubusercontent.com/MartinCiro/ScriptInstallGolang/main/install.sh)
