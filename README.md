@@ -1,4 +1,4 @@
-### Instalacion en lubuntu 22.04.1
+### Instalacion-Actualización en lubuntu 22.04.1
 
 Descargue:
 
